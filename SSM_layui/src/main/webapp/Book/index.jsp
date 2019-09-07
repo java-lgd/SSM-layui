@@ -29,7 +29,7 @@
 <a class="layui-btn layui-btn-xs" lay-event="edit">编辑</a>
 <a class="layui-btn layui-btn-danger layui-btn-xs" lay-event="del">删除</a>
 </script>
-	<script type="text/html" id="toolbarDemo">
+<script type="text/html" id="toolbarDemo">
   <div class="layui-btn-container">
     <div class="layui-input-inline">
       <input type="text" name="txt" lay-verify="title"  autocomplete="off" placeholder="请输入名称" class="layui-input input">

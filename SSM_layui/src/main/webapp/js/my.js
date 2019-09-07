@@ -8,8 +8,8 @@ function closeFrame(){
 	  parent.layer.close(index); 
 }
 function openFrame(url,title,area){
-	if(!title) title="編輯";
-	if(!area)area=['340px', '60%'];
+	if(!title) title="编辑";
+	if(!area)area=['100%', '100%'];
 	layer.open({
 		  type: 2,
 		  title: title,
